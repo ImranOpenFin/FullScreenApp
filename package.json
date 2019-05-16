@@ -8,6 +8,6 @@
     "openfin-launcher": "^1.3.12"
   },
   "dependencies": {
-    "html2canvas": "^1.0.0-alpha.12"
+
   }
 }
